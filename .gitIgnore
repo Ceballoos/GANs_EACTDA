@@ -1,0 +1,10 @@
+# Ignorar todo por defecto
+*
+
+# No ignorar este propio archivo .gitignore
+!.gitignore
+
+# Incluir únicamente los tres archivos deseados
+!gan.py
+!ganCronometroGuardado.py
+!ganSinApuntes.py
